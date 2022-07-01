@@ -1,0 +1,2 @@
+# discordex
+Bot pokémon français
